@@ -1,0 +1,13 @@
+*	{
+	font: Arial;
+}
+
+h4	{
+	background: rgb(51, 52, 54);
+	color: rgb(121, 123, 128);
+	padding: 10px;
+}
+
+.nav li {
+	display: inline-block;
+}
